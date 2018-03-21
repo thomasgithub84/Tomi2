@@ -1,0 +1,5 @@
+projectKey=com.in28minutes.maven1:junit-example11
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.in28minutes.maven1:junit-example11
+ceTaskId=AWJKVhD3e5FMecYYcn6V
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWJKVhD3e5FMecYYcn6V
